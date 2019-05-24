@@ -539,7 +539,7 @@ div#footer-widgets div.widget ul {
 	padding-top: 30px;
 }
 div#footer-widgets div.widget div#socials ul, div.widget div#socials ul {
-	width: 150px;
+	width: 100%;
 }
 div#footer-widgets div.widget ul li a, div.widget ul li a {
 	color: #292b2c;
@@ -896,6 +896,11 @@ img.home-img.larger {
 	}
 }
 @media (min-width: 768px) {	
+	
+	div#footer-widgets div.widget div#socials ul, div.widget div#socials ul {
+	width: 250px;
+}
+
 	div#content p, div#content ul li, div.widget-body p, div.widget-body ul li {
 		font-size: 15pt;
 		text-align: left;
