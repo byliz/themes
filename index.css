@@ -173,6 +173,7 @@ div#menu ul li {
 	padding-top: 12px;
 	margin: 0px 10px 0px 10px;	
 	float: left;
+	letter-spacing: 1px;
 }
 div#menu ul {
 	width: 100%;
@@ -180,6 +181,7 @@ div#menu ul {
 	padding: 0;
 	background-color: #fafafa;
 	box-shadow: 0px 1px 5px rgba(0,0,0,0.1);
+	letter-spacing: 1px;
 }
 /*Drop Downs*/
 div#footer-widgets div.widget ul li .dropdown-content {
@@ -487,7 +489,6 @@ div.widget-body h2 {
 }
 div.widget {
 	width: 100%;
-	margin-bottom: 30px;
 }
 div.widget-body {
 	padding: 0px 10px 0px 10px;
@@ -896,7 +897,7 @@ img.home-img.larger {
 	}
 }
 @media (min-width: 768px) {	
-	
+
 	div#footer-widgets div.widget div#socials ul, div.widget div#socials ul {
 	width: 250px;
 }
@@ -993,7 +994,7 @@ img.home-img.larger {
 		width: 500px;
 	}
 	div#menu ul {
-		width: 610px;
+		width: 650px;
 	}
 	div#credits {	
 		width: 100%;
