@@ -3,9 +3,9 @@ title:              "Liz Lorena Websites"
 description:        "Preview website themes and templates by Liz Lorena."
 
 # Author Info
-author_name:        "cozymaus"
+author_name:        "lizberberena"
 author_email:       hello@lizlorena.com
-github_username:    cozymaus
+github_username:    lizberberena
 twitter_username:   
 
 # Site Settings
@@ -22,7 +22,7 @@ paginate: 5
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: cozymaus
+    shortname: lizberberena
 
 # Site Build
 highlighter: rouge
